@@ -12,25 +12,25 @@ rubixv6.py : Made the cube look nicer
 rubixv7.py : Added some other cool features like undo by one move, hold to undo moves, scramble and mouse swipes (esp good for touchscreen)
 
 
-KEY COMMANDS:
+## KEY COMMANDS:
 
-Up - w
-Up'- e
-Down - r
-Down'- t
-Right - a
-Right'- s
-Left - d
-Left'- f
-Front - z
-Front'- x
-Back - c
-Back'- v
+Up - w  
+Up'- e  
+Down - r  
+Down'- t  
+Right - a  
+Right'- s  
+Left - d  
+Left'- f  
+Front - z  
+Front'- x  
+Back - c  
+Back'- v  
 
-Press l : Shift viewing mode
-Press i : Scramble
-Hold o : Undo moves
-Press p : Undo one move
+Press l : Shift viewing mode  
+Press i : Scramble  
+Hold o : Undo moves  
+Press p : Undo one move  
   
 
 
